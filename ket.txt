@@ -1,0 +1,6 @@
+1. Saya membuat database di MySQL lalu membuat tabel pasien.
+2. Aplikasi saya menggunakan PHP native dengan koneksi mysqli.
+2. Fitur yang saya buat meliputi tambah, tampil, edit, dan hapus data pasien.
+3. Untuk perhitungan umur saya menggunakan fungsi SQL TIMESTAMPDIFF.
+3. lalu saya urutkan menggunakan ORDER BY umur DESC agar pasien tertua tampil di atas.
+4. Struktur aplikasi saya sederhana dengan pemisahan file untuk setiap proses.
